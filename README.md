@@ -1,4 +1,4 @@
-# Study-Buddy-Revision-App
+
 # Study-Buddy-Revision-App
 StudyBuddy: AI-Powered Coursebook Revision App
 StudyBuddy is a fully functional, responsive web application designed to help school students revise from their coursebooks by generating instant, tailored quizzes and providing a virtual teaching companion.
